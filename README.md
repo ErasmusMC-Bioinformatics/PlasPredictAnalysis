@@ -1,4 +1,4 @@
-# Big_Data_Analysis_of_Bacterial_Plasmids
+# PlasmidPredictAnalysis
 
 ## Overview
 
