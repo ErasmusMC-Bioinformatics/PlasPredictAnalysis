@@ -1,0 +1,17 @@
+name: plasmid_pipeline
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.8.6
+  - snakemake=7.32.4
+  - biopython
+  - postgresql=12.9
+  - plasmidfinder=2.1.6
+  - rgi=6.0.3
+  - prokka=1.14.6
+  - panaroo=1.5.1
+  - mash=2.3
+  - mashtree
+  - pandas
